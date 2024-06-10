@@ -1,0 +1,398 @@
+[
+  {
+      "id": 1,
+      "name": "Ananas",
+      "price": "2000 MGA",
+      "images": "produits/Fruits/ananas.webp"
+  },
+  {
+      "id": 2,
+      "name": "Avocat",
+      "price": "2000 MGA",
+      "images": "produits/Fruits/avocat.webp"
+  },
+  {
+      "id": 3,
+      "name": "Banane",
+      "price": "2000 MGA",
+      "images": "produits/Fruits/banane.jpeg"
+  },
+  {
+      "id": 4,
+      "name": "Fraise",
+      "price": "2000 MGA",
+      "images": "produits/Fruits/fraise.jpg"
+  },
+  {
+      "id": 5,
+      "name": "Letchis",
+      "price": "2000 MGA",
+      "images": "produits/Fruits/letchis.jpg"
+  },
+  {
+      "id": 6,
+      "name": "Manga",
+      "price": "2000 MGA",
+      "images": "produits/Fruits/manga.jpg"
+  },
+  {
+      "id": 7,
+      "name": "Paiso",
+      "price": "2000 MGA",
+      "images": "produits/Fruits/paiso.webp"
+  },
+  {
+      "id": 8,
+      "name": "Papaye",
+      "price": "2000 MGA",
+      "images": "produits/Fruits/papaye.jpeg"
+  },
+  {
+      "id": 9,
+      "name": "Pibasy",
+      "price": "2000 MGA",
+      "images": "produits/Fruits/pibasy.jpg"
+  },
+  {
+      "id": 10,
+      "name": "Pocanelle",
+      "price": "2000 MGA",
+      "images": "produits/Fruits/pocanelle.jpg"
+  },
+  {
+      "id": 11,
+      "name": "Poire",
+      "price": "2000 MGA",
+      "images": "produits/Fruits/poire.jpg"
+  },
+  {
+      "id": 12,
+      "name": "Pomme",
+      "price": "2000 MGA",
+      "images": "produits/Fruits/pomme.jpg"
+  },
+  {
+      "id": 13,
+      "name": "Raisin",
+      "price": "2000 MGA",
+      "images": "produits/Fruits/raisin.jpg"
+  },
+  {
+      "id": 14,
+      "name": "Baie Rose",
+      "price": "2000 MGA",
+      "images": "produits/epices/baie-rose.jpg"
+  },
+  {
+      "id": 15,
+      "name": "Cacao",
+      "price": "2000 MGA",
+      "images": "produits/epices/cacao.jpg"
+  },
+  {
+      "id": 16,
+      "name": "Café",
+      "price": "2000 MGA",
+      "images": "produits/epices/cafe.jpg"
+  },
+  {
+      "id": 17,
+      "name": "Canel",
+      "price": "2000 MGA",
+      "images": "produits/epices/canel.jpg"
+  },
+  {
+      "id": 18,
+      "name": "Citronnelle",
+      "price": "2000 MGA",
+      "images": "produits/epices/citronnelle.jpg"
+  },
+  {
+      "id": 19,
+      "name": "Cum",
+      "price": "2000 MGA",
+      "images": "produits/epices/cum.jpg"
+  },
+  {
+      "id": 20,
+      "name": "Cumin",
+      "price": "2000 MGA",
+      "images": "produits/epices/cumin.jpg"
+  },
+  {
+      "id": 21,
+      "name": "Curcuma",
+      "price": "2000 MGA",
+      "images": "produits/epices/curcuma.jpg"
+  },
+  {
+      "id": 22,
+      "name": "Curry",
+      "price": "2000 MGA",
+      "images": "produits/epices/curry.jpg"
+  },
+  {
+      "id": 23,
+      "name": "Gingembre",
+      "price": "2000 MGA",
+      "images": "produits/epices/gingembre.jpg"
+  },
+  {
+      "id": 24,
+      "name": "Girofle",
+      "price": "2000 MGA",
+      "images": "produits/epices/girofle.jpg"
+  },
+  {
+      "id": 25,
+      "name": "Piment",
+      "price": "2000 MGA",
+      "images": "produits/epices/piment.png"
+  },
+  {
+      "id": 26,
+      "name": "Poivre Noir",
+      "price": "2000 MGA",
+      "images": "produits/epices/poivre-noir.jpg"
+  },
+  {
+      "id": 27,
+      "name": "Poivre Sauvage",
+      "price": "2000 MGA",
+      "images": "produits/epices/poivre-sauvage.jpg"
+  },
+  {
+      "id": 28,
+      "name": "Vanille",
+      "price": "2000 MGA",
+      "images": "produits/epices/vanille.png"
+  },
+  {
+      "id": 29,
+      "name": "Black Eyed Peas",
+      "price": "2000 MGA",
+      "images": "produits/Grains/black-eyed-peas.webp"
+  },
+  {
+      "id": 30,
+      "name": "Haricot Rouge",
+      "price": "2000 MGA",
+      "images": "produits/Grains/haricot-rouge.jpg"
+  },
+  {
+      "id": 31,
+      "name": "Katsaka",
+      "price": "2000 MGA",
+      "images": "produits/Grains/katsaka.jpg"
+  },
+  {
+      "id": 32,
+      "name": "Lentille Verte",
+      "price": "2000 MGA",
+      "images": "produits/Grains/lentille-verte.jpg"
+  },
+  {
+      "id": 33,
+      "name": "Makalioka",
+      "price": "2000 MGA",
+      "images": "produits/Grains/makalioka.jpg"
+  },
+  {
+      "id": 34,
+      "name": "Petit Pois",
+      "price": "2000 MGA",
+      "images": "produits/Grains/petit-pois.jpg"
+  },
+  {
+      "id": 35,
+      "name": "Pois Cap",
+      "price": "2000 MGA",
+      "images": "produits/Grains/pois-cap.jpg"
+  },
+  {
+      "id": 36,
+      "name": "Tsiasisa",
+      "price": "2000 MGA",
+      "images": "produits/Grains/tsiasisa.jpeg"
+  },
+  {
+      "id": 37,
+      "name": "Vary Mena",
+      "price": "2000 MGA",
+      "images": "produits/Grains/vary-mena.jpg"
+  },
+  {
+      "id": 38,
+      "name": "Voanjobory",
+      "price": "2000 MGA",
+      "images": "produits/Grains/voanjobory.jpg"
+  },
+  {
+      "id": 39,
+      "name": "Carotte",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Carotte.jpg",
+      "pannier": "pannier.html"
+  },
+  {
+      "id": 40,
+      "name": "Choux Fleur",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Choux_fleur.webp",
+      "pannier": "pannier.html"
+  },
+  {
+      "id": 41,
+      "name": "Tomates",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Tomates.jpg",
+      "pannier": "pannier.html"
+  },
+  {
+      "id": 42,
+      "name": "Ail (Tongolo Gasy)",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Ail.webp",
+      "pannier": "pannier.html"
+  },
+  {
+      "id": 43,
+      "name": "Anamamy",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Anamamy.jpg",
+      "pannier": "pannier.html"
+  },
+  {
+      "id": 44,
+      "name": "Anandrano",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Anandrano.jpg",
+      "pannier": "pannier.html"
+  },
+  {
+      "id": 45,
+      "name": "Anantsonga",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Anantsonga.jpg",
+      "pannier": "pannier.html"
+  },
+  {
+      "id": 46,
+      "name": "Petsay",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Petsay.jpg",
+      "pannier": "pannier.html"
+  },
+  {
+      "id": 47,
+      "name": "Tissam",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Tissam.jpg",
+      "pannier": "pannier.html"
+  },
+  {
+      "id": 48,
+      "name": "Pomme De Terre (Ovy)",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Pomme_de_terre.jpeg",
+      "pannier": "pannier.html"
+  },
+  {
+      "id": 49,
+      "name": "Haricot Vert",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Haricot_vert.webp",
+      "pannier": "pannier.html"
+  },
+  {
+      "id": 50,
+      "name": "Poireau",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Poireau.jpg",
+      "pannier": "pannier.html"
+  },
+  {
+      "id": 51,
+      "name": "Navet",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Navet.jpeg",
+      "pannier": "pannier.html"
+  },
+  {
+      "id": 52,
+      "name": "Laitue",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Laitue.webp",
+      "pannier": "pannier.html"
+  },
+  {
+      "id": 53,
+      "name": "Coriandre (Kotomila)",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Kotomila.jpg",
+      "pannier": "pannier.html"
+  },
+  {
+      "id": 54,
+      "name": "Persil",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Persil.jpg",
+      "pannier": "pannier.html"
+  },
+  {
+      "id": 55,
+      "name": "Oignon Rouge",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Oignon_rouge.jpg",
+      "pannier": "pannier.html"
+  },
+  {
+      "id": 56,
+      "name": "Citrouille",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Citrouille.webp",
+      "pannier": "pannier.html"
+  },
+  {
+      "id": 57,
+      "name": "Courgette",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Courgette.jpg",
+      "pannier": "pannier.html"
+  },
+  {
+      "id": 58,
+      "name": "Chayotte",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Chayotte.jpeg",
+      "pannier": "pannier.html"
+  },
+  {
+      "id": 59,
+      "name": "Aubergine",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Aubergine.jpg",
+      "pannier": "pannier.html"
+  },
+  {
+      "id": 60,
+      "name": "Choux Rouge",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Choux_rouge.jpg",
+      "pannier": "pannier.html"
+  },
+  {
+      "id": 61,
+      "name": "Choux Vert",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Choux_vert.jpeg",
+      "pannier": "pannier.html"
+  },
+  {
+      "id": 62,
+      "name": "Concombre",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Concombre.png",
+      "pannier": "pannier.html"
+  }
+]

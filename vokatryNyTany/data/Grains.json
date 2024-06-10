@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Black eyed peas",
+        "price": "2000 MGA",
+        "images": "produits/Grains/black-eyed-peas.webp"
+    },
+    {
+        "name": "Haricot rouge",
+        "price": "2000 MGA",
+        "images": "produits/Grains/haricot-rouge.jpg"
+    },
+    {
+        "name": "Katsaka",
+        "price": "2000 MGA",
+        "images": "produits/Grains/katsaka.jpg"
+    },
+    {
+        "name": "Lentille verte",
+        "price": "2000 MGA",
+        "images": "produits/Grains/lentille-verte.jpg"
+    },
+    {
+        "name": "Makalioka",
+        "price": "2000 MGA",
+        "images": "produits/Grains/makalioka.jpg"
+    },
+    {
+        "name": "Petit pois",
+        "price": "2000 MGA",
+        "images": "produits/Grains/petit-pois.jpg"
+    },
+    {
+        "name": "Pois cap",
+        "price": "2000 MGA",
+        "images": "produits/Grains/pois-cap.jpg"
+    },
+    {
+        "name": "Tsiasisa",
+        "price": "2000 MGA",
+        "images": "produits/Grains/tsiasisa.jpeg"
+    },
+    {
+        "name": "Vary mena",
+        "price": "2000 MGA",
+        "images": "produits/Grains/vary-mena.jpg"
+    },
+    {
+        "name": "Voanjobory",
+        "price": "2000 MGA",
+        "images": "produits/Grains/voanjobory.jpg"
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Baie rose",
+        "price": "2000 MGA",
+        "images": "produits/epices/baie-rose.jpg"
+    },
+    {
+        "name": "Cacao",
+        "price": "2000 MGA",
+        "images": "produits/epices/cacao.jpg"
+    },
+    {
+        "name": "Café",
+        "price": "2000 MGA",
+        "images": "produits/epices/cafe.jpg"
+    },
+    {
+        "name": "Canel",
+        "price": "2000 MGA",
+        "images": "produits/epices/canel.jpg"
+    },
+    {
+        "name": "Citronnelle",
+        "price": "2000 MGA",
+        "images": "produits/epices/citronnelle.jpg"
+    },
+    {
+        "name": "Cum",
+        "price": "2000 MGA",
+        "images": "produits/epices/cum.jpg"
+    },
+    {
+        "name": "Cumin",
+        "price": "2000 MGA",
+        "images": "produits/epices/cumin.jpg"
+    },
+    {
+        "name": "Curcuma",
+        "price": "2000 MGA",
+        "images": "produits/epices/curcuma.jpg"
+    },
+    {
+        "name": "Curry",
+        "price": "2000 MGA",
+        "images": "produits/epices/curry.jpg"
+    },
+    {
+        "name": "Gingembre",
+        "price": "2000 MGA",
+        "images": "produits/epices/gingembre.jpg"
+    },
+    {
+        "name": "Girofle",
+        "price": "2000 MGA",
+        "images": "produits/epices/girofle.jpg"
+    },
+    {
+        "name": "Piment",
+        "price": "2000 MGA",
+        "images": "produits/epices/piment.png"
+    },
+    {
+        "name": "Poivre noir",
+        "price": "2000 MGA",
+        "images": "produits/epices/poivre-noir.jpg"
+    },
+    {
+        "name": "Poivre sauvage",
+        "price": "2000 MGA",
+        "images": "produits/epices/poivre-sauvage.jpg"
+    },
+    {
+        "name": "Vanille",
+        "price": "2000 MGA",
+        "images": "produits/epices/vanille.png"
+    }
+]

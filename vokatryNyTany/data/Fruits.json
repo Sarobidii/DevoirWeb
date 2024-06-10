@@ -1,0 +1,80 @@
+[
+    {
+        "id":1,
+        "name": "Ananas",
+        "price": "2000 MGA",
+        "images": "produits/Fruits/ananas.webp"
+    },
+    {
+        "id":2,
+        "name": "Avocat",
+        "price": "2000 MGA",
+        "images": "produits/Fruits/avocat.webp"
+    },
+    {
+        "id":3,
+        "name": "Banane",
+        "price": "2000 MGA",
+        "images": "produits/Fruits/banane.jpeg"
+    },
+    {
+        "id":4,
+        "name": "Fraise",
+        "price": "2000 MGA",
+        "images": "produits/Fruits/fraise.jpg"
+    },
+    {
+        "id":5,
+        "name": "Letchis",
+        "price": "2000 MGA",
+        "images": "produits/Fruits/letchis.jpg"
+    },
+    {
+        "id":6,
+        "name": "Manga",
+        "price": "2000 MGA",
+        "images": "produits/Fruits/manga.jpg"
+    },
+    {
+        "id":7,
+        "name": "Paiso",
+        "price": "2000 MGA",
+        "images": "produits/Fruits/paiso.webp"
+    },
+    {
+        "id":8,
+        "name": "Papaye",
+        "price": "2000 MGA",
+        "images": "produits/Fruits/papaye.jpeg"
+    },
+    {
+        "id":9,
+        "name": "Pibasy",
+        "price": "2000 MGA",
+        "images": "produits/Fruits/pibasy.jpg"
+    },
+    {
+        "id":10,
+        "name": "Pocanelle",
+        "price": "2000 MGA",
+        "images": "produits/Fruits/pocanelle.jpg"
+    },
+    {
+        "id":11,
+        "name": "Poire",
+        "price": "2000 MGA",
+        "images": "produits/Fruits/poire.jpg"
+    },
+    {
+        "id":12,
+        "name": "Pomme",
+        "price": "2000 MGA",
+        "images": "produits/Fruits/pomme.jpg"
+    },
+    {
+        "id":13,
+        "name": "Raisin",
+        "price": "2000 MGA",
+        "images": "produits/Fruits/raisin.jpg"
+    }
+]

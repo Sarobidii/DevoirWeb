@@ -1,0 +1,171 @@
+[
+    {
+      "id":1,
+      "name": "Carotte",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Carotte.jpg",
+      "pannier": "pannier.html"
+    },
+    {
+      "id":2,
+      "name": "Choux fleur",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Choux_fleur.webp",
+      "pannier": "pannier.html"
+    },
+    {
+      "id":3,
+      "name": "Tomates",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Tomates.jpg",
+      "pannier": "pannier.html"
+    },
+    {
+      "id":4,
+      "name": "Ail (Tongolo gasy)",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Ail.webp",
+      "pannier": "pannier.html"
+    },
+    {
+      "id":5,
+      "name": "Ail (Tongolo gasy)",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Anamamy.jpg",
+      "pannier": "pannier.html"
+    },
+    {
+      "id":6,
+      "name": "Ail (Tongolo gasy)",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Anandrano.jpg",
+      "pannier": "pannier.html"
+    },
+    {
+      "id":7,
+      "name": "Ail (Tongolo gasy)",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Anantsonga.jpg",
+      "pannier": "pannier.html"
+    },
+    {
+      "id":8,
+      "name": "Ail (Tongolo gasy)",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Petsay.jpg",
+      "pannier": "pannier.html"
+    },
+    {
+      "id":9,
+      "name": "Ail (Tongolo gasy)",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Tissam.jpg",
+      "pannier": "pannier.html"
+    },
+    {
+      "id":10,
+      "name": "Pomme de terre (Ovy)",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Pomme_de_terre.jpeg",
+      "pannier": "pannier.html"
+    },
+    {
+      "id":11,
+      "name": "Haricot vert",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Haricot_vert.webp",
+      "pannier": "pannier.html"
+    },
+    {
+      "id":12,
+      "name": "Poireau",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Poireau.jpg",
+      "pannier": "pannier.html"
+    },
+    {
+      "id":13,
+      "name": "Navet",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Navet.jpeg",
+      "pannier": "pannier.html"
+    },
+    {
+      "id":14,
+      "name": "Laitue",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Laitue.webp",
+      "pannier": "pannier.html"
+    },
+    {
+      "id":15,
+      "name": "Coriandre (Kotomila)",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Kotomila.jpg",
+      "pannier": "pannier.html"
+    },
+    {
+      "id":16,
+      "name": "Persil",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Persil.jpg",
+      "pannier": "pannier.html"
+    },
+    {
+      "id":17,
+      "name": "Oignon rouge",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Oignon_rouge.jpg",
+      "pannier": "pannier.html"
+    },
+    {
+      "id":18,
+      "name": "Citrouille",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Citrouille.webp",
+      "pannier": "pannier.html"
+    },
+    {
+      "id":19,
+      "name": "Courgette",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Courgette.jpg",
+      "pannier": "pannier.html"
+    },
+    {
+      "id":20,
+      "name": "Chayotte",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Chayotte.jpeg",
+      "pannier": "pannier.html"
+    },
+    {
+      "id":21,
+      "name": "Aubergine",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Aubergine.jpg",
+      "pannier": "pannier.html"
+    },
+    {
+      "id":22,
+      "name": "Choux rouge",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Choux_rouge.jpg",
+      "pannier": "pannier.html"
+    },
+    {
+      "id":23,
+      "name": "Choux vert",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Choux_vert.jpeg",
+      "pannier": "pannier.html"
+    },
+    {
+      "id":24,
+      "name": "Concombre",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Concombre.png",
+      "pannier": "pannier.html"
+    }
+]      
+

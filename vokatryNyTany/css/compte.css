@@ -1,0 +1,106 @@
+#container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 25px;
+}
+#connexion {
+    display: flex;
+    flex-direction: column;
+    width: 450px;
+}
+
+#connexionPagee {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;   
+}
+
+#connexionPagee input {
+    border: 1px solid #ccc;
+    margin: 5px 0;
+    padding: 15px 15px;
+    color: #000;
+    font-size: 15px;
+    border-radius: 4px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#valider {
+    background: #647526;
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+span {
+    display: inline-block;
+    position: relative;
+}
+#login_separation {
+    margin: 12px 0 4px 0;
+    overflow: hidden;
+    text-align: center;
+}
+#login_separation > span::before, #login_separation > span::after {
+    margin-right: 5px;
+    right: 100%;
+    background: #ccd0d5;
+    content: '';
+    height: 1px;
+    position: absolute;
+    top: 50%;
+    width: 9999px;
+}
+#login_separation > span::after {
+    margin-left: 5px;
+    left: 100%;
+    background: #ccd0d5;
+    content: '';
+    height: 1px;
+    position: absolute;
+    top: 50%;
+    width: 9999px;
+}
+#forget_passwd_link {
+    color: #3D4E00;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+#sign_up {
+    color: #000;
+    display: block;
+    text-decoration: none;
+    background: white;
+    border: #bec3c9 solid 1px;
+    font-size: 15px;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+    width: 80%;
+    align-self: center;
+} 
+#langue {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+#element1, #element2 {
+    display: flex;
+    flex-direction: column;
+    color: #8497B4;
+    text-align: center;
+    font-size: 15px;
+    width: 100%;
+}
+#element2 a {
+    text-decoration: none;
+    align-self: center;
+    color: #6e6c6c;
+    margin: 2px;
+    border: 1px solid #8497B4;
+    border-radius: 2px;
+}
+.bienven {
+    font-size: 50px;
+}

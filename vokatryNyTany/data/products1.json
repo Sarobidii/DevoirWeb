@@ -1,0 +1,52 @@
+
+[
+
+    {	
+		"id": 1,
+		"name": "Poivre noir",
+        "price": "2000 MGA",
+        "images": "produits/epices/poivre-noir.jpg"
+	},
+    {
+		"id": 2,
+		"name": "Curry",
+        "price": "2000 MGA",
+        "images": "produits/epices/curry.jpg"
+	},
+	{
+		"id": 3,
+		"name": "Carotte",
+        "price": "2000 MGA",
+        "images": "produits/Légumes/Carotte.jpg"
+	},
+	{
+		"id": 4,
+		"name": "Aubergine",
+      "price": "2000 MGA",
+      "images": "produits/Légumes/Aubergine.jpg"
+	},
+	{
+		"id": 5,
+		"name": "Makalioka",
+        "price": "2000 MGA",
+        "images": "produits/Grains/makalioka.jpg"
+	},
+	{
+		"id": 6,
+		"name": "Haricot rouge",
+        "price": "2000 MGA",
+        "images": "produits/Grains/haricot-rouge.jpg"
+	},
+    {
+		"id": 7,
+		"name": "Raisin",
+        "price": "2000 MGA",
+        "images": "produits/Fruits/raisin.jpg"
+	},
+	{
+		"id": 8,
+		"name": "Pibasy",
+        "price": "2000 MGA",
+        "images": "produits/Fruits/pibasy.jpg"
+	}
+]

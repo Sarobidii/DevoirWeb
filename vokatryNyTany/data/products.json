@@ -1,0 +1,52 @@
+
+[
+
+    {
+		"id": 1,
+		"name": "Citronnelle",
+        "price": "2000 MGA",
+        "images": "produits/epices/citronnelle.jpg"
+	},
+    {
+		"id": 2,
+		"name": "Piment",
+        "price": "2000 MGA",
+        "images": "produits/epices/piment.png"
+	},
+	{
+		"id": 3,
+		"name": "Haricot vert",
+		"price": "1800 MGA",
+		"images": "./produits/Légumes/Haricot_vert.webp"
+	},
+	{
+		"id": 4,
+		"name": "Tomates",
+		"price": "2500 MGA",
+		"images": "./produits/Légumes/Tomates.jpg"
+	},
+	{
+		"id": 5,
+		"name": "Petit pois",
+        "price": "2000 MGA",
+        "images": "produits/Grains/petit-pois.jpg"
+	},
+	{
+		"id": 6,
+		"name": "Tsiasisa",
+        "price": "2000 MGA",
+        "images": "produits/Grains/tsiasisa.jpeg"
+	},
+    {
+		"id": 7,
+		"name": "poire",
+		"price": "2000 MGA",
+		"images": "./produits/Fruits/poire.jpg"
+	},
+	{
+		"id": 8,
+		"name": "fraise",
+		"price": "2000 MGA",
+		"images": "./produits/Fruits/fraise.jpg"
+	}
+]
